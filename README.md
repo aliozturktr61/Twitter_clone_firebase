@@ -28,4 +28,7 @@ eklenip
 
 - Bir kullanıcının sistemin kaynaklarına / işlevlerine / sayflarına erişim sürecidir.
 - Yani kimlik doğrulama başarılı olduktan sonra kullanıcının ne kadar erişime sahip olduğunu belirleme sürecidir.# Twitter_clone_firebase
-# twitter_clone_firebase
+
+
+![Zight Recording 2024-08-14 at 12 16 07 PM](https://github.com/user-attachments/assets/092e520b-e217-4dff-be0a-8c168ba6d45c)
+
