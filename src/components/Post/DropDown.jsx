@@ -17,7 +17,7 @@ const DropDown = ({ tweet }) => {
     // silinecek dökümanın referansını al
     const tweetRef = doc(db, "tweets", tweet.id);
 
-    // dökmanı kaldır
+    // dökümanı kaldır
     deleteDoc(tweetRef)
       .then(() => toast.info("Tweet akıştan kaldırıldı"))
       .catch(() => toast.error("Bir sorun oluştu"));

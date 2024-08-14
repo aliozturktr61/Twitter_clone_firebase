@@ -7,8 +7,8 @@
   grid-template-columns: 1fr minmax(400px, 600px) 1fr;
 }
 
-/* Dropdown */
-/* The design is inspired from the mockapi.io */
+/* Dropdown nesnesi için css kodları*/
+
 
 .popup {
   --burger-line-width: 1.125em;

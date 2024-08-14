@@ -24,5 +24,5 @@ export const provider = new GoogleAuthProvider();
 // veritabanın referansını al
 export const db = getFirestore(app);
 
-// storage referansını al
+// storage referansını al resimler için
 export const storage = getStorage(app);

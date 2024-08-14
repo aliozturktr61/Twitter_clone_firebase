@@ -6,7 +6,7 @@ const UserInfo = ({ tweet }) => {
   const username =
     tweet.user.name.toLowerCase().replace(/ /g, "_") + Math.round(Math.random() * 99);
 
-  // tarih verisine eriş
+  // tarih verisine erişim
   let date = tweet.createdAt?.toDate();
 
   // moment kütüphanesiyle şuanki tarihten uzaklığını hesapla
